@@ -1,0 +1,5 @@
+Row(first_name='James', middle_name='', last_name='Smith', dob='36636', gender='M', salary=60000)
+Row(first_name='Michael', middle_name='Rose', last_name='', dob='40288', gender='M', salary=70000)
+Row(first_name='Robert', middle_name='', last_name='Williams', dob='42114', gender='', salary=400000)
+Row(first_name='Maria', middle_name='Anne', last_name='Jones', dob='39192', gender='F', salary=500000)
+Row(first_name='Jen', middle_name='Mary', last_name='Brown', dob='', gender='F', salary=0)
