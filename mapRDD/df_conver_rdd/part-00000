@@ -1,0 +1,3 @@
+Row(firstname='James', lastname='Smith', gender='M', salary=30)
+Row(firstname='Anna', lastname='Rose', gender='F', salary=41)
+Row(firstname='Robert', lastname='Williams', gender='M', salary=62)

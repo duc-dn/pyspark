@@ -1,0 +1,1 @@
+- flatMap() is a transformation operation that flattens the RDD/DataFrame (array/map DataFrame columns) after applying the function on every element and return a new Pyspark RDD/DataFrame.
